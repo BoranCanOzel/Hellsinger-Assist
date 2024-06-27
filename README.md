@@ -5,7 +5,10 @@ This tool, created a few years ago, automates reloads, shoots, and executions to
 
 ## Demo Video
 
-[![Watch the video](./thumbnail.png)](https://youtu.be/KBX7BXV_Aow)
+<a href="https://youtu.be/KBX7BXV_Aow" target="_blank">
+  <img src="./thumbnail.png" alt="Watch the video">
+</a>
+
 
 ## Features 🌟
 
