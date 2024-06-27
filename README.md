@@ -3,6 +3,10 @@
 
 This tool, created a few years ago, automates reloads, shoots, and executions to the beat in Metal: Hellsinger. It ensures perfect timing for dashes and other actions with specific button holds.
 
+## Demo Video
+
+[![Watch the video](./thumbnail.png)](https://youtu.be/KBX7BXV_Aow)
+
 ## Features 🌟
 
 - **Automatic Reloads and Shoots**: The tool syncs with the game's beat to perform reloads and shoots.
